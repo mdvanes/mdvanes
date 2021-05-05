@@ -1,2 +1,2 @@
 - 🔭 I’m currently working at [codestar.nl](https://codestar.nl)
-- 💬 Ask me about Front-end, TypeScript, GraphQL, React, Nx
+- 💬 Ask me about FRP in the front-end, State Management, TypeScript, GraphQL, React, Nx
